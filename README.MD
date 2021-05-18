@@ -1,1 +1,0 @@
-## Chakka Manga Classifier !!
